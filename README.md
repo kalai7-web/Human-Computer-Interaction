@@ -1,4 +1,4 @@
-# Human-Computer-Interaction
+# Human Computer Interaction
 
 This course will introduce students to human-computer interaction theories and design processes.The emphasis will be on applied user experience (UX) design. The course will present an iterative evaluation-centred UX lifecycle and will introduce a broader notion of user experience, including usability, usefulness, and emotional impact. The lifecycle should be viewed as template intended to be instantiated in many ways to match the constraints of a particular development project.
 
